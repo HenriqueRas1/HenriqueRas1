@@ -2,7 +2,7 @@
 
 **`(Developer,VideoEditor,Creative)`**
 
-Aspiring web developer eager to learn and grow. Currently building small projects to solidify my understanding and explore front-end development. Actively learning through online courses and tutorials.  Eager to collaborate and contribute to open-source projects.
+Aspiring web developer eager to learn and grow. Currently building small projects to solidify my understanding. Actively learning through online courses and tutorials.  Eager to collaborate and contribute to open-source projects.
 
 
 
