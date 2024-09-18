@@ -1,4 +1,4 @@
-## 👋 Hi! I am Henrique Arantes (or Henrique Ras)
+## 👋 Hello There! I am Henrique Arantes (or Henrique Ras)
 
 **`(Developer,VideoEditor,Creative)`**
 
